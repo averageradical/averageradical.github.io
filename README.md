@@ -1,2 +1,3 @@
-averageradical.github.io
-========================
+# averageradical.github.io
+
+[http://averageradical.github.io/](http://averageradical.github.io/)
